@@ -2,6 +2,7 @@
 
 /* CSS Document */
 
+
 /* # Base Styles
 ---------------------------------------------------------------------------------------------------- */
 
@@ -28,6 +29,7 @@ h2 {
     color: Salmon;
 }
 
+
 /* # Business Card Layout
 ---------------------------------------------------------------------------------------------------- */
 
@@ -36,8 +38,8 @@ a.email {
     text-decoration: none;
 }
 
-h1.Name {
-    margin-bottom: 0px;
+h1.name {
+    margin-bottom: 0;
     border: 10px solid tomato;
     padding: 30px;
     display: inline;
@@ -59,8 +61,6 @@ h2.title {
 
 /* # Quote Styles
 ---------------------------------------------------------------------------------------------------- */
-
-
 
 .quote {
     font-style: italic;
